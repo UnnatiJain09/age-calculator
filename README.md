@@ -6,11 +6,13 @@ This project calculates a user's exact age based on their date of birth and prov
 
 ## 🚀 Live Demo
 
-Add your deployed website link here.
+https://unnatijain09.github.io/age-calculator/
 
 ## 📸 Preview
 
-screenshot.png.png
+<img width="943" height="472" alt="screenshot" src="https://github.com/user-attachments/assets/a72e3fb5-3706-47bd-8286-3969a5adcb6c" />
+
+
 
 ## ✨ Features
 
